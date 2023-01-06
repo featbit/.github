@@ -13,15 +13,8 @@
 
 -	More use cases at https://featbit.medium.com/introducing-featbit-e0cef61572a.
 
-## Useful links
+You can read more information about the project in our main GitHub repository [https://github.com/featbit/featbit](https://github.com/featbit/featbit/issues)
 
-- Main GitHub repo: [https://github.com/featbit/featbit](https://github.com/featbit/featbit/issues)
-
-- To learn how to use FeatBit, you can visit [**FeatBit's documentation page**](https://featbit.gitbook.io/docs/)
-
-- If you met issues, you can report it to our [**Issues page**](https://github.com/featbit/featbit/issues)
-
-- If you have further questions and want to contact us, you can join [**FeatBit Slack Channel**](https://join.slack.com/t/featbit/shared_invite/zt-1ew5e2vbb-x6Apan1xZOaYMnFzqZkGNQ) 
 
 ## Getting Started
 
@@ -41,12 +34,3 @@ Once all containers have started, go to FeatBit's portal [http://localhost:8081]
 
 **Attention** : with the default configuration, the UI is accessible only from the local machine (on which you have run docker compose), please read [the doc](https://featbit.gitbook.io/docs/installation#attention) to make it accessible publicly.
 
-## Tech Stack
-
-◆  [Architecture](https://featbit.gitbook.io/docs/tech-stack/architecture) - Architecture of FeatBit.
-
-◆  [Benchmark](https://featbit.gitbook.io/docs/tech-stack/benchmark) - More detailed reports on FeatBit's benchmark test. 
-
-## License
-
-FeatBit is under the MIT license. See the [LICENSE](https://github.com/featbit/featbit/blob/main/LICENSE) file for details.

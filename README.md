@@ -1,36 +1,28 @@
+[![FeatBit](https://github.com/featbit/.github/assets/68597908/973d4ab0-ffdd-4184-bcde-ba9f62f944d2)](https://www.featbit.co)
 
-## Introduction
+### Platform for Managing Feature Flags
 
-**FeatBit** is a scalable and high-performance platform that empowers all teams to manage Feature Flags, Experimentations, Entitlement, etc. For example:
+**Ship Code Safely**. Mitigate risks with Production Testing, roll out new features to 1% of users initially then expanding, and ensure instant error recovery without redeployment.
 
--	Reduce delivery risk by progressively releasing features to targeting users without redeployment.
+**Innovate Faster**. Decouple feature deployment from release to minimize merge conflicts. Deploy at will, and release any feature immediately upon request from the boss.
 
--	Measure the impact of features’ rollouts and run A/B tests to improve feature quality.
-
--	Enable Sales and CS to close more deals with demos and feature trials at the push of a button.
-
--	Give Marketing the ability to fine-tune target audiences, manage customer programs, etc.
-
--	More use cases at https://featbit.medium.com/introducing-featbit-e0cef61572a.
-
-You can read more information about the project in our main GitHub repository [https://github.com/featbit/featbit](https://github.com/featbit/featbit/issues)
+![image](https://github.com/featbit/.github/assets/68597908/db057b46-8762-4b9e-8d94-b205e13242c2)
 
 
-## Getting Started
+**Targeted Experiences**. Release features to specific target users, and continuously measure and improve the product's business value, while reducing the need for developer involvement.
 
-You can launch all the docker containers by docker compose, all the images are available on [docker hub](https://hub.docker.com/u/featbit).
+**Born for developers**. Use simple if/else statements to control and release features, eliminating complex DevOps tasks. This enables developers to directly drive business value. FeatBit refine tool details, freeing up your energy to better focus on the business.
 
-Before launching FeatBit, make sure you have git and docker installed. Then do the following steps:
+![image](https://github.com/featbit/.github/assets/68597908/8cc0518b-dd85-43a4-ae64-0a86dace3a56)
 
-Clone the repository to your server or local machine and boot up the services.
-```
-git clone https://github.com/featbit/featbit
-cd featbit
-docker compose up -d
-```
-Once all containers have started, go to FeatBit's portal [http://localhost:8081](http://localhost:8081) and use the default credentials to log in.
-- username: **test@featbit.com**
-- password: **123456**
+**Understanding Feature Usage Details**. FeatBit tracks feature usage, creates on-demand experimentation reports, and exports data to tools like DataDog, Amplitude for diverse business needs.
 
-**Attention** : with the default configuration, the UI is accessible only from the local machine (on which you have run docker compose), please read [the doc](https://featbit.gitbook.io/docs/installation#attention) to make it accessible publicly.
+![image](https://github.com/featbit/.github/assets/68597908/91805daa-b70e-45e0-833e-d75dfee4b198)
 
+**Host in Any Environment**. Opt for hosted or self-hosted solutions; FeatBit operates globally, offering seamless information sync and efficient proxy bridging.
+
+![image](https://github.com/featbit/.github/assets/68597908/ae2673b1-a82e-4c01-9fcf-8c1612b84558)
+
+
+
+**Much more information** visit https://www.featbit.co and main github repo https://github.com/featbit/featbit
